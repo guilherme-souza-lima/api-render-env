@@ -1,0 +1,1 @@
+alter table tbl_user add column status bool default true;
